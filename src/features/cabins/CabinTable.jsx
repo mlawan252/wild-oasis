@@ -12,6 +12,7 @@ const Table = styled.div`
   background-color: var(--color-grey-0);
   border-radius: 7px;
   overflow: hidden;
+  
 `;
 
 const TableHeader = styled.header`
